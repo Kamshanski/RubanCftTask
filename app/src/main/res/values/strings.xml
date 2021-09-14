@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RubanCftTask</string>
+
+    <string name="currencyListFragmentTitle">Курсы</string>
+    <string name="convertFragmentTitle">Конвертировать</string>
+
+    <string name="currencyDateTime">Курс ЦБ на %s</string>
+    <string name="loadingFailed">Загрузка не удалась: %s</string>
+    <string name="nominal">"за %s едениц"</string>
+    <string name="twoDigitsPrecisionDecimal">%.2f</string>
+    <string name="unpredictedBehaviour">Unpredicted behaviour</string>
+    <string name="wait">Ожидайте</string>
+</resources>
